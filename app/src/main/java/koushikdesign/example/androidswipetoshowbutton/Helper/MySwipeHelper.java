@@ -150,6 +150,8 @@ public abstract class MySwipeHelper extends ItemTouchHelper.SimpleCallback {
             return  false;
         }
 
+
+
         public void onDraw(Canvas c, RectF rectF, int pos)
         {
             Paint p = new Paint();
